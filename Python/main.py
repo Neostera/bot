@@ -187,4 +187,4 @@ async def on_member_remove(member):
     await client.get_channel(803575442224971797).send(embed=emby)
 
 
-client.run('NzQyNjYwMjU4MTI3Njc1NDQy.XzJWQw.HwU5rVPdHtxIAJPoBeovX3nLZgM')
+client.run('lol')
